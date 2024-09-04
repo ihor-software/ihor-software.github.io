@@ -29,7 +29,7 @@ const Menu = () => {
           <div className={`collapse navbar-collapse offset flex-row-reverse ${isMenuOpen ? 'show' : ''}`} id="navbarSupportedContent">
             <ul className="nav navbar-nav menu_nav justify-content-end">
               <li className="nav-item" >
-                <Link to="/website" className='nav-link'>Home</Link>
+                <Link to="/" className='nav-link'>Home</Link>
               </li>
               <li className="nav-item">
                 <Link to="/portfolio" className='nav-link'>Portfolio</Link>
