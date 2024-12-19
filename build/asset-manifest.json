@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6125c6d5.css",
-    "main.js": "/static/js/main.0147829f.js",
+    "main.js": "/static/js/main.766bbfba.js",
     "static/js/453.fa8561b0.chunk.js": "/static/js/453.fa8561b0.chunk.js",
     "static/media/workout.gif": "/static/media/workout.8b8857212a2603aa634a.gif",
     "static/media/rider.gif": "/static/media/rider.e34fa523f3c16b717f63.gif",
@@ -11,6 +11,7 @@
     "static/media/work.gif": "/static/media/work.8abe29e0f0530c8a1851.gif",
     "static/media/wearplan.png": "/static/media/wearplan.17f90688346cae719da9.png",
     "static/media/2track.png": "/static/media/2track.72b5435d6ef3e1791285.png",
+    "static/media/Ihor_Resume.pdf": "/static/media/Ihor_Resume.7a3b07f22d154a9b1d2f.pdf",
     "static/media/doctoo.png": "/static/media/doctoo.e5d039788957c69707e6.png",
     "static/media/lstm.png": "/static/media/lstm.334867a07db9df97b1d9.png",
     "static/media/about-us.png": "/static/media/about-us.e27e369a5595efd0c9fa.png",
@@ -26,11 +27,11 @@
     "static/media/linkedin.png": "/static/media/linkedin.bd79a82fc857836900a6.png",
     "index.html": "/index.html",
     "main.6125c6d5.css.map": "/static/css/main.6125c6d5.css.map",
-    "main.0147829f.js.map": "/static/js/main.0147829f.js.map",
+    "main.766bbfba.js.map": "/static/js/main.766bbfba.js.map",
     "453.fa8561b0.chunk.js.map": "/static/js/453.fa8561b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6125c6d5.css",
-    "static/js/main.0147829f.js"
+    "static/js/main.766bbfba.js"
   ]
 }
