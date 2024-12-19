@@ -1,27 +1,23 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import ProjectCardComponent from './ProjectCardComponent';
-import projects from '../files/projects.json';
 
-const CardList = () => {
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    setData(projects);
-  }, []);
-
+const CardList = ({ projects }) => {
   return (
     <div className="container">
-    {data.map((card, index) => (
-      <div key={card.id} style={{ marginBottom: index < data.length - 1 ? '16px' : 0 }}>
-        <ProjectCardComponent
-          imageUrl={card.imageUrl}
-          title={card.title}
-          description={card.description}
-          lastUpdated={card.lastUpdated}
-        />
-      </div>
-    ))}
-  </div>
+      {projects.map((card, index) => (
+        <div
+          key={card.id} 
+          style={{ marginBottom: index < projects.length - 1 ? '16px' : 0 }}
+        >
+          <ProjectCardComponent
+            imageUrl={card.imageUrl}
+            title={card.title}
+            description={card.description}
+            lastUpdated={card.lastUpdated}
+          />
+        </div>
+      ))}
+    </div>
   );
 };
 

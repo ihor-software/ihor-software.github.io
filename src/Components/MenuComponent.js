@@ -25,7 +25,7 @@ const Menu = () => {
             onClick={toggleMenu}>
             <span className="navbar-toggler-icon"></span>
           </button>
-          <span className="navbar-brand">Ihor Vasyliev Software Development</span>
+          <span className="navbar-brand">Ihor Vasyliev Software</span>
           <div className={`collapse navbar-collapse offset flex-row-reverse ${isMenuOpen ? 'show' : ''}`} id="navbarSupportedContent">
             <ul className="nav navbar-nav menu_nav justify-content-end">
               <li className="nav-item" >

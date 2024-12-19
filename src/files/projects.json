@@ -1,5 +1,12 @@
 [
   {
+    "id": 0,
+    "imageUrl": "luckybull.png",
+    "title": "Condor Gaming Casino development",
+    "description": "System Development & Design. Optimizations and minifications implementation including lazyloading and caching.",
+    "lastUpdated": "September 2024"
+  },
+  {
     "id": 1,
     "imageUrl": "scantechnic.png",
     "title": "Scantechnic device managment tool",
@@ -22,9 +29,9 @@
     },
     {
         "id": 4,
-        "imageUrl": "nda.png",
-        "title": "NDA application support & development",
-        "description": "Support for the security application of a world famous corporation",
+        "imageUrl": "uem.png",
+        "title": "UEM Client application support & development",
+        "description": "Support for the UEM Blackberry application",
         "lastUpdated": "September 2022 - March 2023"
       },
       {

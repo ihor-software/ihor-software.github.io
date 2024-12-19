@@ -12,7 +12,7 @@ import QualificationsPage from "./pages/QualificationsPage.js";
 import ConceptsPage from "./pages/ConceptsPage.js";
 import ResearchesPage from "./pages/ResearchesPage.js";
 import LifelinePage from "./pages/LifelinePage.js";
-import ProductsPage from "./pages/ProductsPage.tsx"
+import ProductsPage from "./pages/ProductsPage.js"
 
 export default function App() {
   return (
