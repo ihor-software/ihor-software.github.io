@@ -31,6 +31,9 @@ const Menu = () => {
               <li className="nav-item" >
                 <Link to="/" className='nav-link'>Home</Link>
               </li>
+              <li className="nav-item" >
+                <Link to="/cv" className='nav-link'>CV</Link>
+              </li>
               <li className="nav-item">
                 <Link to="/portfolio" className='nav-link'>Portfolio</Link>
               </li>
