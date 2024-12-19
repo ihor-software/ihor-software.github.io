@@ -1,5 +1,6 @@
 import React from 'react';
 import avatar from '../img/about-us.png';
+import { Link } from 'react-router-dom';
 
 const AboutmeComponent = () => {
 
@@ -22,7 +23,7 @@ const AboutmeComponent = () => {
                                     </ul>
                                     <div className="d-flex align-items-center">
                                         <a type="button" className="btn btn-primary" href="mailto:ihor-software@gmail.com"><span>Email Me</span></a>
-                                        <a type="button" className="btn btn-primary" href="/cv"><span>Get CV</span></a>
+                                        <Link to="/cv" className="btn btn-primary"><span>Get CV</span></Link>
                                     </div>
                                 </div>
                             </div>
