@@ -1,14 +1,15 @@
 //projects developed, description
 import React from 'react';
-import CardList from '../Components/CardListComponent';
+import PortfolioList from '../Components/PortfolioListComponent';
 import FooterComponent from '../Components/FooterComponent';
-import projects from '../files/projects.json';
+// import projects from '../files/projects.json';
+import projects from '../files/portfolio.json';
 
 
 function PortfolioPage() {
     return (
         <div class="container">
-            <CardList projects={projects} />
+            <PortfolioList projects={projects} />
             <FooterComponent />
         </div>
     );

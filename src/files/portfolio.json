@@ -1,0 +1,149 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "luckybull.png",
+        "title": "Casino Platforms - Condor Gaming",
+        "description": "Designed, developed, and maintained a suite of advanced casino platforms, including LuckyBull, Gambeta10, Pedalada10, B-bets, 24Bettle, RembrandtCasino, SiegerCasino, Tournaverse, and SirJohn. These platforms provided comprehensive services such as SportsBook, Casino, and Slots, ensuring seamless user experiences, high performance, and robust system reliability.",
+        "technologies": "React, PHP, MySQL, Apache, TypeScript, AWS, SSR, Jenkins",
+        "impact": [
+            "Boosted page load speed by 50%, significantly improving site performance.",
+            "Enhanced user experience by 70% through optimized dynamic content rendering and UI layout improvements.",
+            "Delivered the SirJohn project, a casino and slots platform, from inception to completion.",
+            "Led the Frontend department, mentoring junior developers and conducting code reviews.",
+            "Implemented advanced optimizations, including lazy loading, caching, and batch loading.",
+            "Established administration back-office services and authored comprehensive project documentation."
+        ],
+        "location": "Plovdiv, Bulgaria",
+        "duration": "Jan 2024 - Now"
+    },
+    {
+        "id": 1,
+        "imageUrl": "doctoo.png",
+        "title": "Doctoo Healthcare Platform - Radency",
+        "description": "Architected and developed an innovative social network platform for hospitals, enabling patients to seamlessly interact with doctors through features such as appointment scheduling, specialist recommendations, video consultations, real-time chat, AI-powered chatbot assistance, secure payment integration (Stripe), and real-time document transcription. The platform enhanced patient-doctor engagement while ensuring efficient and secure service delivery.",
+        "technologies": "React, Node.js, NestJS, TypeScript, GitHub CI/CD, AWS, Jest, Tailwind, MIUI, Bootstrap, ShadcnUI, Microservices, Jenkins, Express/NestJS, REST, Swagger, JWT, PostgreSQL, Docker",
+        "impact": [
+            "Architected the platform schema and delivered the Minimum Viable Application (MVA).",
+            "Developed key features, including AI-powered GPT healthcare chatbot and video call conferencing.",
+            "Delivered seamless integrations for real-time communication and secure transactions.",
+            "Mentored team members and led client-developer communication.",
+            "Organized demos and meetups to align stakeholders.",
+            "Conducted regular code reviews and feature delivery."
+        ],
+        "location": "",
+        "duration": "Dec 2022 - Dec 2023"
+    },
+    {
+        "id": 2,
+        "imageUrl": "proactive.png",
+        "title": "Proactive Event Planner - Radency",
+        "description": "Designed and developed a comprehensive event management tool, enabling users to efficiently organize and manage events with features such as venue search, guest list management, and activity scheduling. The platform also incorporated personalized event recommendations based on user preferences, enhancing user satisfaction and streamlining the event planning process.",
+        "technologies": "React, .Net, TypeScript, C#, GitHub CI/CD, AWS, Jest, Tailwind, MIUI, Bootstrap, ShadcnUI",
+        "impact": [
+            "Delivered seamless integrations with event service providers, enhancing user satisfaction by reducing booking times by 40%.",
+            "Increased event planning efficiency by implementing advanced search algorithms and automated guest list management, improving user engagement by 25%.",
+            "Conducted regular code reviews, ensuring adherence to best practices and reducing bug occurrences by 30%.",
+            "Led the delivery of key features on time, achieving 100% sprint completion across all development cycles.",
+            "Streamlined deployment processes with CI/CD pipelines, reducing deployment times by 50% and enabling faster feedback loops."
+        ],
+        "location": "",
+        "duration": "May 2021 - May 2022"
+    },
+    {
+        "id": 3,
+        "imageUrl": "scantechnic.png",
+        "title": "AI Anomaly Detection Platform - Greentech Startup",
+        "description": "Developed an advanced system for IoT device management, leveraging a customized Long Short-Term Memory (LSTM) model to accurately detect and regulate temperature anomalies. The platform seamlessly integrated machine learning capabilities with IoT devices, ensuring real-time monitoring and control for enhanced operational efficiency.",
+        "technologies": "Python, Machine Learning, Neural Networks, React, TypeScript, Arduino IoT, NodeJS",
+        "impact": [
+            "Achieved accurate anomaly detection and real-time device control using custom machine learning algorithms.",
+            "Delivered a robust system for monitoring and stabilizing IoT devices.",
+            "Integrated IoT devices with an anomaly detection model and designed custom user interfaces.",
+            "Set up real-time data processing infrastructure and implemented response caching for enhanced performance."
+        ],
+        "location": "",
+        "duration": "Nov 2020 - Apr 2021"
+    },
+    {
+        "id": 4,
+        "imageUrl": "uemclient.png",
+        "title": "UEM Device Security Application - BlackBerry",
+        "description": "Designed and developed a robust security application to safeguard devices against malware and unauthorized access across iOS and Android platforms, ensuring enhanced device protection and user data security.",
+        "technologies": "React Native, TypeScript, iOS, Android",
+        "impact": [
+            "Increased test coverage to 70%, enhancing application reliability.",
+            "Fixed critical authentication issues and reported over 15 production bugs.",
+            "Designed and implemented authorization logic and refactored legacy code.",
+            "Debugged device-specific issues and improved application performance.",
+            "Facilitated communication between Canadian teams and clients."
+        ],
+        "location": "",
+        "duration": "Aug 2019 - Oct 2020"
+    },
+    {
+        "id": 5,
+        "imageUrl": "ieat.png",
+        "title": " iEat Food Delivery Service - Epam",
+        "description": "Designed and developed a comprehensive food delivery platform for a local restaurant, featuring functionalities such as assortment management, menu display, order processing, secure payment integration, and real-time delivery tracking, ensuring a seamless experience for both customers and restaurant staff.",
+        "technologies": "React, Node.js, MongoDB, AWS, Tailwind, TypeScript, Bootstrap, Stripe, Docker, Redis",
+        "impact": [
+            "Designed and implemented a scalable architecture, enabling the platform to handle over 100,000 monthly active users with zero downtime.",
+            "Streamlined menu and checkout workflows, reducing the average order completion time by 35%.",
+            "Enhanced platform performance by utilizing Redis for caching, resulting in a 50% decrease in API response times.",
+            "Collaborated closely with stakeholders to deliver key features, conducted comprehensive code reviews, and ensured timely releases.",
+            "Developed a robust Docker-based deployment pipeline, reducing deployment times by 40% and ensuring consistency across environments."
+        ],
+        "location": "",
+        "duration": "Apr 2018 - Jul 2019"
+    },
+    {
+        "id": 6,
+        "imageUrl": "shop.png",
+        "title": "Lacy's E-Commerce Platform - Epam",
+        "description": "Designed and developed a global e-commerce platform specializing in clothing and fashion, enabling seamless international transactions, personalized shopping experiences, and optimized user engagement.",
+        "technologies": "React, Node.js, MongoDB, AWS, Tailwind, TypeScript, Bootstrap, Stripe, Microservices.",
+        "impact": [
+            "Implemented advanced pagination and caching strategies, reducing page load times by 60% and improving user retention by 15%.",
+            "Architected a microservices-based backend with database read replicas, optimizing read/write performance and enabling 99.9% uptime during high traffic spikes.",
+            "Designed intuitive and mobile-responsive user interfaces, increasing conversion rates by 25%.",
+            "Integrated Stripe for secure payment handling, ensuring compliance with international payment standards.",
+            "Enhanced scalability and fault tolerance through AWS-based infrastructure, supporting seamless international expansion.",
+            "Led optimization efforts that improved system efficiency by 30% and enabled rapid iteration of new features based on customer feedback."
+        ],
+        "location": "",
+        "duration": "Jan 2017 - Mar 2018"
+    },
+    {
+        "id": 7,
+        "imageUrl": "followaction.png",
+        "title": "FollowAction - Kharkiv National University of Radio Electronics",
+        "description": "Developed an advanced e-commerce system with a recommendation engine, designed to analyze buyer behavioral patterns and dynamically adjust product placements to maximize profitability. The system leverages attention-based algorithms to prioritize section visibility and optimize their value. It seamlessly integrates with buyers' smartphones, providing real-time analytical insights to shop owners for improved decision-making and strategic planning.",
+        "technologies": "Angular, ASP .Net, MySQL, IoT, Camera sensors, Object Recognition algorithms, Arduino, iOS, Python, ML.",
+        "impact": [
+            "Designed and implemented a scalable recommendation engine, improving product placement efficiency and increasing sales profitability by an estimated 20%.",
+            "Leveraged IoT and camera sensor integration to analyze buyer behavior, providing actionable insights to shop owners and enhancing customer engagement.",
+            "Developed attention-based algorithms that optimized section prioritization, leading to a 15% increase in user interaction with high-value products.",
+            "Spearheaded the development of a smartphone-integrated analytical dashboard, enabling shop owners to make data-driven decisions in real time.",
+            "Conducted thorough code reviews, delivered key features, and maintained high-quality standards while showcasing progress in regular demos.",
+            "Improved the system's ability to track and interpret buyer patterns using ML-based object recognition, reducing manual intervention and improving recommendation accuracy."
+        ],
+        "location": "Kharkiv National University of Radio Electronics",
+        "duration": ""
+    },
+    {
+        "id": 8,
+        "imageUrl": "wearplan.png",
+        "title": "Wearplan - Kharkiv National University of Radio Electronics",
+        "description": "Developed a dynamic e-commerce system utilizing Adjustable Product Selection algorithms, designed to analyze user interests and adapt marketing strategies and product promotions in real-time. The platform offers extensive personalization features for targeted customers, enhancing engagement and satisfaction while driving interest in promotional campaigns.",
+        "technologies": "Angular, ASP .Net, MySQL, IoT, Barcode Scan, TypeScript, Bootstrap, ML.",
+        "impact": [
+            "Developed and deployed dynamic product selection algorithms that increased user engagement by 25% through personalized marketing strategies and promotional offers.",
+            "Implemented advanced caching and pagination techniques, reducing page load times by 40% and improving overall user experience.",
+            "Architected a robust database system with read replicas, optimizing read/write performance and ensuring seamless scalability during high-traffic periods.",
+            "Enhanced customer satisfaction by integrating IoT and barcode scanning features, streamlining user interactions and increasing conversion rates.",
+            "Designed intuitive, responsive user interfaces using React and Bootstrap, ensuring accessibility across devices and boosting retention metrics."
+        ],
+        "location": "Kharkiv National University of Radio Electronics",
+        "duration": ""
+    }
+]

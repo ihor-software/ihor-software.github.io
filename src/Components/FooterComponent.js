@@ -20,7 +20,7 @@ function FooterComponent() {
           <a href="https://djinni.co/q/f7b529a123/"><img className="social-icon" src={djinni} alt="djinni" width={40} height={40} style={{ marginRight: '10px' }} /></a>
           <a href="https://freelancehunt.com/freelancer/vasilyev_.html"><img className="social-icon" src={freelancehunt} alt="freelancehunt" width={40} height={40} style={{ marginRight: '10px' }} /></a>
           <a href="https://www.upwork.com/freelancers/~01a81edf4c6ccf44a2"><img className="social-icon" src={upwork} alt="upwork" width={40} height={40} style={{ marginRight: '10px' }} /></a>
-          < a href="https://www.linkedin.com/in/ihor-vasyliev-ios/"><img className="social-icon" src={linkedin} alt="linkedin" width={40} height={40} style={{ marginRight: '10px' }} /></a>
+          < a href="https://www.linkedin.com/in/ihor-software/"><img className="social-icon" src={linkedin} alt="linkedin" width={40} height={40} style={{ marginRight: '10px' }} /></a>
           <a href="https://github.com/ihor-software/portfolio"><img className="social-icon" src={github} alt="github" width={40} height={40} style={{ marginRight: '10px' }} /></a>
           <a href="https://t.me/vasillyev17"><img className="social-icon" src={telegram} alt="telegram" width={40} height={40} style={{ marginRight: '10px' }} /></a>
           <a href="mailto:ihor.software@gmail.com"><img className="social-icon" src={mail} alt="mail" width={40} height={40} /></a>

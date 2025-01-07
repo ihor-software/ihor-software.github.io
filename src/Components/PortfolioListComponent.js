@@ -1,7 +1,7 @@
 import React from 'react';
-import CardComponent from './ProductCardComponent';
+import PortfolioCardComponent from './PortfolioCardComponent';
 
-const CardListComponent = ({ projects }) => {
+const PortfolioListComponent = ({ projects }) => {
   return (
     <div className="container">
       {projects.map((card, index) => (
@@ -9,11 +9,14 @@ const CardListComponent = ({ projects }) => {
           key={card.id} 
           style={{ marginBottom: index < projects.length - 1 ? '16px' : 0 }}
         >
-          <CardComponent
+          <PortfolioCardComponent
             imageUrl={card.imageUrl}
             title={card.title}
             description={card.description}
-            lastUpdated={card.lastUpdated}
+            technologies={card.technologies}
+            impact={card.impact}
+            location={card.location}
+            duration={card.duration}
           />
         </div>
       ))}
@@ -21,4 +24,4 @@ const CardListComponent = ({ projects }) => {
   );
 };
 
-export default CardListComponent;
+export default PortfolioListComponent;

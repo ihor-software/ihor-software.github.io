@@ -278,3 +278,85 @@ body {
 .expertise-card:hover .card-header {
   background-color: #005bb5;
 }
+
+.impact-list {
+  list-style-type: disc; 
+  margin-left: 20px;      
+  padding-left: 0;   
+}
+
+/* PortfolioCardComponent.css */
+
+.portfolio-card {
+  display: flex;
+  flex-direction: column; /* Default to column layout */
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 16px;
+  background-color: #fff;
+}
+
+.portfolio-card-img-container {
+  flex: none;
+  width: 100%; /* Image takes full width in column layout */
+}
+
+.portfolio-card-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.portfolio-card-content {
+  flex: 1;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio-card-text {
+  flex: 1;
+}
+
+.portfolio-card-title {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+}
+
+.portfolio-card-description {
+  margin-bottom: 10px;
+}
+
+.portfolio-card-technologies {
+  margin-bottom: 10px;
+}
+
+.portfolio-card-impact-list {
+  list-style-type: disc;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.portfolio-card-footer {
+  margin-top: 10px;
+  font-size: 12px;
+  color: #888;
+}
+
+/* Responsive styles */
+@media (min-width: 800px) {
+  .portfolio-card {
+      flex-direction: row; /* Switch to row layout for desktop */
+  }
+
+  .portfolio-card-img-container {
+      width: 30%; /* Image takes 30% width in row layout */
+      margin-right: 16px;
+  }
+
+  .portfolio-card-content {
+      width: 70%;
+      padding: 16px;
+  }
+}

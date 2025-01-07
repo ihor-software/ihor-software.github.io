@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import '../style/css/style.css'
 
-const ProjectCardComponent = ({ imageUrl, title, description, lastUpdated }) => {
+const ProductCardComponent = ({ imageUrl, title, description, lastUpdated }) => {
   return (
     <div className="card">
       <img className="card-img-top" src={require(`../img/portfolio/${imageUrl}`)} alt={title} />
@@ -17,4 +17,4 @@ const ProjectCardComponent = ({ imageUrl, title, description, lastUpdated }) => 
 };
 
 
-export default ProjectCardComponent;
+export default ProductCardComponent;
