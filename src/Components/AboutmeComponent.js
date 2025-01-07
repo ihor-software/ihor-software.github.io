@@ -14,7 +14,7 @@ const AboutmeComponent = () => {
                                     <h3 className="text-uppercase">Hello</h3>
                                     <h1 className="text-uppercase">I am Ihor Vasyliev</h1>
                                     <h5 className="text-uppercase">Senior Full Stack Developer</h5>
-                                    <ul>
+                                    <ul className = "portfolio-card-impact-list">
                                         <li>5+ years of experience in Full Stack development</li>
                                         <li>English level: Advanced</li>
                                         <li>Preferred stack: PERN</li>
